@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81faec8703931c94a9d92f8b491f4f72, type: 3}
+  m_Name: Conv-cientifico
+  m_EditorClassIdentifier: 
+  desbloqueada: 1
+  finalizado: 0
+  reUsar: 1
+  dialogos:
+  - personaje: {fileID: 11400000, guid: 1584c1bd97c86a540851f38679624484, type: 2}
+    sonido: {fileID: 0}
+    dialogo: "Bueno si no me equivoco \xE9l es el cientifico de este sitio."
+  - personaje: {fileID: 11400000, guid: b21dea35c79e8f2418b1bcd50df03fd9, type: 2}
+    sonido: {fileID: 0}
+    dialogo: 'Supongo que usar bata es algo comun en todos los cientificos del universo '
+  - personaje: {fileID: 11400000, guid: 85e54370260f46447aa51a4be6ced226, type: 2}
+    sonido: {fileID: 0}
+    dialogo: "\xA1Hola!, ustedes lucen un poco familiares, de casualidad \xBFson
+      familiares de mi t\xEDa Yolanda? "
+  - personaje: {fileID: 11400000, guid: b21dea35c79e8f2418b1bcd50df03fd9, type: 2}
+    sonido: {fileID: 0}
+    dialogo: "\xBFQu\xE9?, no, estamos aqu\xED porque necesitamos combustible para
+      nuestra nave "
+  - personaje: {fileID: 11400000, guid: 85e54370260f46447aa51a4be6ced226, type: 2}
+    sonido: {fileID: 0}
+    dialogo: "Mmmmm\u2026 puedo ayudarlos, pero necesito ayuda con unos n\xFAmeros "
+  - personaje: {fileID: 11400000, guid: b21dea35c79e8f2418b1bcd50df03fd9, type: 2}
+    sonido: {fileID: 0}
+    dialogo: "\xBFQu\xE9 clase de ayuda? "
+  pregunta: {fileID: 11400000, guid: 56572be89bdd7d14e9eed3d2fe1f835e, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61238f7ffdc0a5d4b9c009a32604a19e, type: 3}
+  m_Name: Preg-cientifico
+  m_EditorClassIdentifier: 
+  pregunta: "\xBFMe ayudan? "
+  opciones:
+  - opcion: si
+    convResultante: {fileID: 0}
+    escena: Clase1
+  - opcion: 'no '
+    convResultante: {fileID: 11400000, guid: 5a1b52621c8b7dc4285370ff83aa883e, type: 2}
+    escena: ninguna
