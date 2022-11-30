@@ -1,4 +1,4 @@
-# AARAN
+# AARAN (DEMO)
 
 ## Proyecto de Titulación (Enero - Diciembre 2021)
 
@@ -25,3 +25,6 @@
  </a>
 </p>
  
+### Documentación:
+- [Tesina](https://drive.google.com/file/d/1-dnaRKLk2FoY6lKyzcy4EvqHvkiYDppZ/view?usp=share_link)
+- [Video demostrativo](https://drive.google.com/file/d/1XqRUNA_oArEBiUMNIuHLRhu8xM4QSWXU/view?usp=share_link)
